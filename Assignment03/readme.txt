@@ -1,0 +1,1 @@
+This C program sets up a Udp client and a server side, and it allows you to transfer two integers between them successfully. You can choose an operation, and the server will perform the operation and send the result back to the client.

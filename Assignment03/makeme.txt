@@ -1,0 +1,8 @@
+To compile this porgram, use the following commands: 
+
+gcc server03.c -o server03
+gcc client03.c -o server03
+
+to run the porgram, use the follwoing commands:
+./server03
+./client03
